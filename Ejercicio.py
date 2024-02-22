@@ -49,14 +49,14 @@ libros = [
 
 peliculas = [
     Pelicula("El Padrino", 3500, "Drama criminal", "Francis Ford Coppola", 175),
-    Pelicula("Inception", 2700, "Ciencia ficción", "Christopher Nolan", 148),
+    Pelicula("Son como niños", 2700, "Comedia", "Dennis Dugan", 120),
     Pelicula("La La Land", 3200, "Comedia romántica", "Damien Chazelle", 128)
 ]
 
 discos = [
     Disco("Thriller", 25000, "Álbum más vendido de todos los tiempos", "Michael Jackson", "Pop"),
     Disco("Dark Side of the Moon", 21700, "Álbum icónico de Pink Floyd", "Pink Floyd", "Rock progresivo"),
-    Disco("Rumours", 26300, "Uno de los álbumes más vendidos de la historia", "Fleetwood Mac", "Rock")
+    Disco("El amor después del amor", 26300, "Uno de los álbumes más vendidos de la historia", "Fito Paez", "Rock")
 ]
 
 print("Información de los libros:")
